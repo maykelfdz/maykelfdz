@@ -24,6 +24,12 @@ Backend developer with experience in technologies such as sprintboot, kafka mess
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com//maykelfdz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maikel-fernandez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/maikeljfa" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/maikel-fernandez" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
+### Badges
 
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/maikeljfa"><img src="https://github-readme-streak-stats.herokuapp.com/?user=maikeljfa&stroke=0891b2&background=0f172a&ring=f97316&fire=f97316&currStreakNum=0891b2&currStreakLabel=f97316&sideNums=0891b2&sideLabels=0891b2&dates=0891b2&hide_border=true" /></a>
+
+<a href="http://www.github.com/maikeljfa"><img src="https://activity-graph.herokuapp.com/graph?username=maikeljfa&bg_color=0f172a&color=0891b2&line=ef4444&point=0891b2&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
