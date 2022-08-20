@@ -4,7 +4,7 @@ Hi 👋 My name is Maikel
 Backend Developer
 -----------------
 
-Backend developer with experience in technologies such as springboot, kafka messaging system, docker, CI/CD, mongoDB, AWS, redis cache, testing (mockito, mockserver), etc. I have had the opportunity to belong to large and complex information systems with end-to-end implementation in the product life cycle for different sectors such as Insurance, Banking and Textile lately, including Banc Sabadell Seguros, Openbank, Banco Santander and Inditex.
+Backend developer with experience in technologies such as spring boot, kafka messaging system, docker, CI/CD, mongoDB, AWS, redis cache, testing (mockito, mockserver), etc. I have had the opportunity to belong to large and complex information systems with end-to-end implementation in the product life cycle for different sectors such as Insurance, Banking and Textile lately, including Banc Sabadell Seguros, Openbank, Banco Santander and Inditex.
 
 * 🌍  I'm based in Spain
 * 🖥️  See my portfolio at [Portfolio](http://maykelfdz.github.io/portfolio/index.html)
